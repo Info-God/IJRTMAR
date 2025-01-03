@@ -113,7 +113,7 @@
                   <ul>
                     <li><router-link to="/ethics">Ethics And Policies</router-link></li>
                     <!-- <li><router-link to="/blogs" >BLOGS</router-link></li> -->
-                    <li><router-link to="/mission-and-scope">Mission And Scope</router-link></li>
+                    <li><router-link to="/aim-and-scope">Aim And Scope</router-link></li>
                     <li><router-link to="/editorial-board">Editorial Board</router-link></li>
                     <li><router-link to="/peer-review-policy">Peer Review Policy</router-link></li>
                     <li><router-link to="/publication-ethics-policy">Publication Ethics Policy</router-link></li>
